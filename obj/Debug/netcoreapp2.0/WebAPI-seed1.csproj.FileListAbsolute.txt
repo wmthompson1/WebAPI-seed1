@@ -1,0 +1,10 @@
+/Users/williamthompson/thompson/src/repos/WebAPI-seed1/WebAPI-seed1/bin/Debug/netcoreapp2.0/WebAPI-seed1.deps.json
+/Users/williamthompson/thompson/src/repos/WebAPI-seed1/WebAPI-seed1/bin/Debug/netcoreapp2.0/WebAPI-seed1.runtimeconfig.json
+/Users/williamthompson/thompson/src/repos/WebAPI-seed1/WebAPI-seed1/bin/Debug/netcoreapp2.0/WebAPI-seed1.runtimeconfig.dev.json
+/Users/williamthompson/thompson/src/repos/WebAPI-seed1/WebAPI-seed1/bin/Debug/netcoreapp2.0/WebAPI-seed1.dll
+/Users/williamthompson/thompson/src/repos/WebAPI-seed1/WebAPI-seed1/bin/Debug/netcoreapp2.0/WebAPI-seed1.pdb
+/Users/williamthompson/thompson/src/repos/WebAPI-seed1/WebAPI-seed1/obj/Debug/netcoreapp2.0/WebAPI-seed1.csproj.CoreCompileInputs.cache
+/Users/williamthompson/thompson/src/repos/WebAPI-seed1/WebAPI-seed1/obj/Debug/netcoreapp2.0/WebAPI-seed1.AssemblyInfoInputs.cache
+/Users/williamthompson/thompson/src/repos/WebAPI-seed1/WebAPI-seed1/obj/Debug/netcoreapp2.0/WebAPI-seed1.AssemblyInfo.cs
+/Users/williamthompson/thompson/src/repos/WebAPI-seed1/WebAPI-seed1/obj/Debug/netcoreapp2.0/WebAPI-seed1.dll
+/Users/williamthompson/thompson/src/repos/WebAPI-seed1/WebAPI-seed1/obj/Debug/netcoreapp2.0/WebAPI-seed1.pdb

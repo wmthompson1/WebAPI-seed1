@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{6EB52189-294C-4113-B12E-82E0C3867FE0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/TodoDbContext.cs">
+    <Files>
+      <File FileName="Models/TodoRepository.cs" Line="2" Column="19" />
+      <File FileName="Models/TodoItem.cs" Line="10" Column="23" />
+      <File FileName="Controllers/ValuesController.cs" Line="2" Column="34" />
+      <File FileName="Models/TodoDbContext.cs" Line="18" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.WebAPI-seed1 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
